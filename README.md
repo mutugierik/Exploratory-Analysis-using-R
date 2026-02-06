@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-using-R
-Exploratory Data Analysis of NYC Airbnb Data using R programming
+Exploratory Data Analysis of NYC Airbnb Data via R
 ## Project Background 
 ## Dataset information
 Source: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
