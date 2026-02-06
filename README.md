@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-using-R
+# Exploratory-Data-Analysis-in-R
 Exploratory Data Analysis of NYC Airbnb Data via R
 ## Project Background 
 ## Dataset information
