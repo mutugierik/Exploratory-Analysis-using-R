@@ -1,2 +1,2 @@
-# Exploratory-Analysis-using-R
-Exploratory Analysis of NYC Airbnb Data using R programming
+# Exploratory-Data-Analysis-using-R
+Exploratory Data Analysis of NYC Airbnb Data using R programming
