@@ -14,9 +14,9 @@ The purpose of this analysis is answering three core questions:
 * Pricing Strategy: What factors influence the pricing of Airbnb listings?
 * Host Dynamics: How do hosts with multiple airbnb listings manage their properties in comparison to hosts with single listings?
 ### Overview of Findings
-*Airbnb concentration and pricing 
+#### Airbnb concentration and pricing 
 Manhattan and Brooklyn have the most Airbnb listings. Manhattan, however, has bnbs with a higher median price than the rest of the boroughs. 
-*Room type influence
+#### Room type influence
 
 
 ## Recommendations
