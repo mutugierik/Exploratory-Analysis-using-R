@@ -7,7 +7,9 @@ Source: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 ## Tools and Methodology
 * R programming
 ## Executive Summary
+This project is an exploratory data analysis (EDA) that examines the various Airbnb listings in New York City (NYC) by utilizing the tidyverse for data cleaning and ggplot 2 for visualization. From the analysis, Manhattan and Brooklyn have the most bnb listings with varied pricing structures. The analysis forms a foundation for implementing a predictive housing and pricing model in NYC to guide the entry of new Airbnb owners into the market. 
 ### Business Problem
+
 ### Overview of Findings
 ## Recommendations
 ## Caveats and Assumptions
